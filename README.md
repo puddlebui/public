@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Seymour Sawchuk's Blog
 
 You can use the [editor on GitHub](https://github.com/puddlebui/public/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and 'easy-to-us `syntax` for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
